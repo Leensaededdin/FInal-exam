@@ -1,0 +1,12 @@
+/*
+Theme Name:     child theme
+Description:    
+Author:         Leen
+Template:       hello-elementor
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+div a {color:brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
