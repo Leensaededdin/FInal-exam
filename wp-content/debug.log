@@ -1,0 +1,2 @@
+[22-Apr-2025 23:11:43 UTC] PHP Warning:  Attempt to read property "title" on null in /workspaces/FInal-exam/.wordpress/wp-includes/class-wp-customize-widgets.php on line 926
+[22-Apr-2025 23:12:08 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/FInal-exam/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
